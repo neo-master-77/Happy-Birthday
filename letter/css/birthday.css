@@ -583,4 +583,12 @@ section{
   -moz-border-radius-bottomleft: 190% 135%;
   margin-left: 1px;
 }
-
+.Relative{
+  position: fixed;
+  top:95%;
+  right: 50%;
+}
+.Relative a{
+  display: inline-block;
+  padding: 2px 5px;
+}
