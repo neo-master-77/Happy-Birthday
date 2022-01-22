@@ -263,3 +263,7 @@ footer{
     background-color: #1f1f1f;
     padding-bottom: 0px;
 }
+.Head h1{
+font-family: 'Pacifico', cursive;
+overflow: hidden;;
+}
